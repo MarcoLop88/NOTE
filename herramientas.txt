@@ -1,4 +1,6 @@
 Software   Herramientas
 
 PHP 
-HTML        
+HTML 
+JAVASCRIPT
+       
